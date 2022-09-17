@@ -4,9 +4,9 @@
 .decrementButton{
   padding: auto;
   margin: 10px;
-  color: red;
+  background-color: red;
 }
 .incrementButton{
   padding: auto;
-  color: green;
+  background-color: green;
 }

@@ -4,7 +4,6 @@ import './App.css';
 
 function App() {
   const [counter, setCounter]= useState(0);
-  // const counter = useSelector((state)=>state.counter);
   const increment = ()=> {
     setCounter(counter+1);
   };
